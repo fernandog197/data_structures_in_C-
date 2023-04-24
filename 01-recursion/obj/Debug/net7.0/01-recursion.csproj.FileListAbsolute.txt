@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\bin\Debug\net7.0\01-recursion.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\bin\Debug\net7.0\01-recursion.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\bin\Debug\net7.0\01-recursion.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\bin\Debug\net7.0\01-recursion.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\bin\Debug\net7.0\01-recursion.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\obj\Debug\net7.0\01-recursion.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\obj\Debug\net7.0\01-recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\obj\Debug\net7.0\01-recursion.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\obj\Debug\net7.0\01-recursion.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\obj\Debug\net7.0\01-recursion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\obj\Debug\net7.0\01-recursion.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\obj\Debug\net7.0\refint\01-recursion.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\obj\Debug\net7.0\01-recursion.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\obj\Debug\net7.0\01-recursion.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\01-recursion\obj\Debug\net7.0\ref\01-recursion.dll
