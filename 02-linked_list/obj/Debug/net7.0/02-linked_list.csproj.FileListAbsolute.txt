@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\bin\Debug\net7.0\02-linked_list.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\bin\Debug\net7.0\02-linked_list.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\bin\Debug\net7.0\02-linked_list.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\bin\Debug\net7.0\02-linked_list.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\bin\Debug\net7.0\02-linked_list.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\obj\Debug\net7.0\02-linked_list.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\obj\Debug\net7.0\02-linked_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\obj\Debug\net7.0\02-linked_list.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\obj\Debug\net7.0\02-linked_list.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\obj\Debug\net7.0\02-linked_list.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\obj\Debug\net7.0\02-linked_list.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\obj\Debug\net7.0\refint\02-linked_list.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\obj\Debug\net7.0\02-linked_list.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\obj\Debug\net7.0\02-linked_list.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\02-linked_list\obj\Debug\net7.0\ref\02-linked_list.dll
