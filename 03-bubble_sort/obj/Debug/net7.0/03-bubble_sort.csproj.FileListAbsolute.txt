@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\bin\Debug\net7.0\03-bubble_sort.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\bin\Debug\net7.0\03-bubble_sort.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\bin\Debug\net7.0\03-bubble_sort.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\bin\Debug\net7.0\03-bubble_sort.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\bin\Debug\net7.0\03-bubble_sort.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\obj\Debug\net7.0\03-bubble_sort.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\obj\Debug\net7.0\03-bubble_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\obj\Debug\net7.0\03-bubble_sort.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\obj\Debug\net7.0\03-bubble_sort.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\obj\Debug\net7.0\03-bubble_sort.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\obj\Debug\net7.0\03-bubble_sort.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\obj\Debug\net7.0\refint\03-bubble_sort.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\obj\Debug\net7.0\03-bubble_sort.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\obj\Debug\net7.0\03-bubble_sort.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\03-bubble_sort\obj\Debug\net7.0\ref\03-bubble_sort.dll
