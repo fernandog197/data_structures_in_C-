@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\bin\Debug\net7.0\04-insertion_sort.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\bin\Debug\net7.0\04-insertion_sort.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\bin\Debug\net7.0\04-insertion_sort.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\bin\Debug\net7.0\04-insertion_sort.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\bin\Debug\net7.0\04-insertion_sort.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\obj\Debug\net7.0\04-insertion_sort.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\obj\Debug\net7.0\04-insertion_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\obj\Debug\net7.0\04-insertion_sort.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\obj\Debug\net7.0\04-insertion_sort.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\obj\Debug\net7.0\04-insertion_sort.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\obj\Debug\net7.0\04-insertion_sort.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\obj\Debug\net7.0\refint\04-insertion_sort.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\obj\Debug\net7.0\04-insertion_sort.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\obj\Debug\net7.0\04-insertion_sort.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\04-insertion_sort\obj\Debug\net7.0\ref\04-insertion_sort.dll
