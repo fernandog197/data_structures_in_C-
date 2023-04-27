@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\bin\Debug\net7.0\06-merge_sort.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\bin\Debug\net7.0\06-merge_sort.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\bin\Debug\net7.0\06-merge_sort.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\bin\Debug\net7.0\06-merge_sort.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\bin\Debug\net7.0\06-merge_sort.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\obj\Debug\net7.0\06-merge_sort.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\obj\Debug\net7.0\06-merge_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\obj\Debug\net7.0\06-merge_sort.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\obj\Debug\net7.0\06-merge_sort.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\obj\Debug\net7.0\06-merge_sort.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\obj\Debug\net7.0\06-merge_sort.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\obj\Debug\net7.0\refint\06-merge_sort.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\obj\Debug\net7.0\06-merge_sort.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\obj\Debug\net7.0\06-merge_sort.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\06-merge_sort\obj\Debug\net7.0\ref\06-merge_sort.dll
