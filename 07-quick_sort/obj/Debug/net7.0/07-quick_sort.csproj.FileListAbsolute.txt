@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\bin\Debug\net7.0\07-quick_sort.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\bin\Debug\net7.0\07-quick_sort.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\bin\Debug\net7.0\07-quick_sort.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\bin\Debug\net7.0\07-quick_sort.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\bin\Debug\net7.0\07-quick_sort.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\obj\Debug\net7.0\07-quick_sort.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\obj\Debug\net7.0\07-quick_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\obj\Debug\net7.0\07-quick_sort.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\obj\Debug\net7.0\07-quick_sort.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\obj\Debug\net7.0\07-quick_sort.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\obj\Debug\net7.0\07-quick_sort.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\obj\Debug\net7.0\refint\07-quick_sort.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\obj\Debug\net7.0\07-quick_sort.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\obj\Debug\net7.0\07-quick_sort.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\07-quick_sort\obj\Debug\net7.0\ref\07-quick_sort.dll
