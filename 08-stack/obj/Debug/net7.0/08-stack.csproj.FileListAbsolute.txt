@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\bin\Debug\net7.0\08-stack.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\bin\Debug\net7.0\08-stack.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\bin\Debug\net7.0\08-stack.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\bin\Debug\net7.0\08-stack.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\bin\Debug\net7.0\08-stack.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\obj\Debug\net7.0\08-stack.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\obj\Debug\net7.0\08-stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\obj\Debug\net7.0\08-stack.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\obj\Debug\net7.0\08-stack.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\obj\Debug\net7.0\08-stack.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\obj\Debug\net7.0\08-stack.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\obj\Debug\net7.0\refint\08-stack.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\obj\Debug\net7.0\08-stack.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\obj\Debug\net7.0\08-stack.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\08-stack\obj\Debug\net7.0\ref\08-stack.dll
