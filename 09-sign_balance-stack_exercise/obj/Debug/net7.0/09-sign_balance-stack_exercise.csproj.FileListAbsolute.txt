@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\bin\Debug\net7.0\09-sign_balance-stack_exercise.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\bin\Debug\net7.0\09-sign_balance-stack_exercise.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\bin\Debug\net7.0\09-sign_balance-stack_exercise.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\bin\Debug\net7.0\09-sign_balance-stack_exercise.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\bin\Debug\net7.0\09-sign_balance-stack_exercise.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\obj\Debug\net7.0\09-sign_balance-stack_exercise.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\obj\Debug\net7.0\09-sign_balance-stack_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\obj\Debug\net7.0\09-sign_balance-stack_exercise.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\obj\Debug\net7.0\09-sign_balance-stack_exercise.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\obj\Debug\net7.0\09-sign_balance-stack_exercise.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\obj\Debug\net7.0\09-sign_balance-stack_exercise.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\obj\Debug\net7.0\refint\09-sign_balance-stack_exercise.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\obj\Debug\net7.0\09-sign_balance-stack_exercise.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\obj\Debug\net7.0\09-sign_balance-stack_exercise.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\09-sign_balance-stack_exercise\obj\Debug\net7.0\ref\09-sign_balance-stack_exercise.dll
