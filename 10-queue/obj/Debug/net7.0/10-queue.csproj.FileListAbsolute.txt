@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\bin\Debug\net7.0\10-queue.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\bin\Debug\net7.0\10-queue.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\bin\Debug\net7.0\10-queue.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\bin\Debug\net7.0\10-queue.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\bin\Debug\net7.0\10-queue.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\obj\Debug\net7.0\10-queue.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\obj\Debug\net7.0\10-queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\obj\Debug\net7.0\10-queue.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\obj\Debug\net7.0\10-queue.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\obj\Debug\net7.0\10-queue.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\obj\Debug\net7.0\10-queue.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\obj\Debug\net7.0\refint\10-queue.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\obj\Debug\net7.0\10-queue.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\obj\Debug\net7.0\10-queue.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\10-queue\obj\Debug\net7.0\ref\10-queue.dll
