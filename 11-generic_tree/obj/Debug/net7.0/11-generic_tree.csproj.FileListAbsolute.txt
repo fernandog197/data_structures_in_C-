@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\bin\Debug\net7.0\11-generic_tree.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\bin\Debug\net7.0\11-generic_tree.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\bin\Debug\net7.0\11-generic_tree.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\bin\Debug\net7.0\11-generic_tree.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\bin\Debug\net7.0\11-generic_tree.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\obj\Debug\net7.0\11-generic_tree.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\obj\Debug\net7.0\11-generic_tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\obj\Debug\net7.0\11-generic_tree.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\obj\Debug\net7.0\11-generic_tree.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\obj\Debug\net7.0\11-generic_tree.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\obj\Debug\net7.0\11-generic_tree.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\obj\Debug\net7.0\refint\11-generic_tree.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\obj\Debug\net7.0\11-generic_tree.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\obj\Debug\net7.0\11-generic_tree.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\11-generic_tree\obj\Debug\net7.0\ref\11-generic_tree.dll
