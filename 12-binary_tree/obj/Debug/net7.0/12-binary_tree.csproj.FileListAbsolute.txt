@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\bin\Debug\net7.0\12-binary_tree.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\bin\Debug\net7.0\12-binary_tree.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\bin\Debug\net7.0\12-binary_tree.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\bin\Debug\net7.0\12-binary_tree.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\bin\Debug\net7.0\12-binary_tree.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\obj\Debug\net7.0\12-binary_tree.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\obj\Debug\net7.0\12-binary_tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\obj\Debug\net7.0\12-binary_tree.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\obj\Debug\net7.0\12-binary_tree.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\obj\Debug\net7.0\12-binary_tree.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\obj\Debug\net7.0\12-binary_tree.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\obj\Debug\net7.0\refint\12-binary_tree.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\obj\Debug\net7.0\12-binary_tree.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\obj\Debug\net7.0\12-binary_tree.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\12-binary_tree\obj\Debug\net7.0\ref\12-binary_tree.dll
