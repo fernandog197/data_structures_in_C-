@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\bin\Debug\net7.0\16-Heap.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\bin\Debug\net7.0\16-Heap.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\bin\Debug\net7.0\16-Heap.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\bin\Debug\net7.0\16-Heap.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\bin\Debug\net7.0\16-Heap.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\obj\Debug\net7.0\16-Heap.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\obj\Debug\net7.0\16-Heap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\obj\Debug\net7.0\16-Heap.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\obj\Debug\net7.0\16-Heap.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\obj\Debug\net7.0\16-Heap.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\obj\Debug\net7.0\16-Heap.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\obj\Debug\net7.0\refint\16-Heap.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\obj\Debug\net7.0\16-Heap.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\obj\Debug\net7.0\16-Heap.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\16-Heap\obj\Debug\net7.0\ref\16-Heap.dll
