@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\bin\Debug\net7.0\17-graphs.exe
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\bin\Debug\net7.0\17-graphs.deps.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\bin\Debug\net7.0\17-graphs.runtimeconfig.json
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\bin\Debug\net7.0\17-graphs.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\bin\Debug\net7.0\17-graphs.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\obj\Debug\net7.0\17-graphs.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\obj\Debug\net7.0\17-graphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\obj\Debug\net7.0\17-graphs.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\obj\Debug\net7.0\17-graphs.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\obj\Debug\net7.0\17-graphs.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\obj\Debug\net7.0\17-graphs.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\obj\Debug\net7.0\refint\17-graphs.dll
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\obj\Debug\net7.0\17-graphs.pdb
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\obj\Debug\net7.0\17-graphs.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\proyectos-programacion\c-sharp\data-structures\17-graphs\obj\Debug\net7.0\ref\17-graphs.dll
